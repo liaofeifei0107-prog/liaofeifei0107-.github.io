@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 倒霉熊 Home
     link: /
-  - title: 科研 Research
+  - title: 马达加斯加 Research
     link: /research.html
-  - title: 论文 Publications
+  - title: 可可爱爱 Publications
     link: /publications.html
